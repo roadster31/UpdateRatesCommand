@@ -1,5 +1,5 @@
 {
-  "name": "your-vendor/update-rates-command-module",
+  "name": "cqfdev/update-rates-command-module",
   "license": "LGPL-3.0+",
   "type": "thelia-module",
   "require": {
